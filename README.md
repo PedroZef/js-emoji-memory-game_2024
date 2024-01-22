@@ -24,7 +24,7 @@
 <br><br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/IN%C3%8DCIO-29%2F10%2F2023-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-22%2F01%2F2024-green" hspace="5"/>
     <img src="https://img.shields.io/badge/T%C3%89RMINO-22%2F01%2F2024-red" hspace="5"/>
 </div>
 <br>
