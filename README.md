@@ -4,17 +4,17 @@
 <br><br>
 
 <div align="center">
-    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25">
-    <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25">
-    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\imgs\dio-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\imgs\PotenciaTech-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\imgs\ifood-logo.png" width="200" height="100" hspace="25">
 </div>
 <br><br>
 
-<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="">
+<div align="center"><img src="assets\imgs\bootcamp-logo.png" width="" height="300" hspace="">
 </div>
 <br><br>
 
-<div align="center"><img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10">
+<div align="center"><img src="assets\imgs\bootcamp-dio.png" width="300" height="" hspace="10">
 </div>     
 <br><br>
 
